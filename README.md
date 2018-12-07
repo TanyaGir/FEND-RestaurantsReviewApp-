@@ -6,6 +6,8 @@ In this project, a static webpage that lacks accessibility is given to be conver
 
 ## How to run the App
 
+Listed below are the options to run the app.
+
 1. You can click https://tanyagir.github.io/FEND-RestaurantsReviewApp-/ to view the app.
 
 2. Run on your local machine
